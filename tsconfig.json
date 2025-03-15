@@ -1,0 +1,15 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "compilerOptions": {
+    "types": [
+      "vuetify-sonner"
+    ],
+    "paths": {
+      "@/*":["./*"],
+      "vuetify-sonner": [
+        "./node_modules/vue-sonner/*"
+      ]
+    }
+  },
+  "extends": "./.nuxt/tsconfig.json"
+}

@@ -1,0 +1,884 @@
+{
+  "groups": [
+    {
+      "group_name": "acg",
+      "group_description": {
+        "zh": "老二次元了"
+      },
+      "voice_list": [
+        {
+          "name": "7c98df293c65c2658e6f3a42ae9311a8",
+          "path": "acg/Explosion.mp3",
+          "description": {
+            "zh": "Explosion"
+          },
+          "updated_at": 1735511626
+        },
+        {
+          "name": "2c8e941c11e59ce8d5d3c1e4481b616d",
+          "path": "acg/什麼是歡愉我就是歡愉.mp3",
+          "description": {
+            "zh": "什麼是歡愉我就是歡愉"
+          },
+          "updated_at": 1735463393
+        },
+        {
+          "name": "660027518d6a3d8b184c02ff08b90bb9",
+          "path": "acg/咕嚕靈波.mp3",
+          "description": {
+            "zh": "咕嚕靈波"
+          },
+          "updated_at": 1735463324
+        },
+        {
+          "name": "41ff831ed3fb32bf78a20ac40111466d",
+          "path": "acg/爆裂魔法.mp3",
+          "description": {
+            "zh": "爆裂魔法"
+          },
+          "updated_at": 1735463287
+        },
+        {
+          "name": "eda014faf706dfecf2bbec6a62a5751d",
+          "path": "acg/自肥魔女伊雷娜.mp3",
+          "description": {
+            "zh": "自肥魔女伊雷娜"
+          },
+          "updated_at": 1735462628
+        },
+        {
+          "name": "1dc5d1dfc1668e0e248e4e9b4da6f1a0",
+          "path": "acg/鹿乃子.mp3",
+          "description": {
+            "zh": "鹿乃子"
+          },
+          "updated_at": 1735511636
+        }
+      ]
+    },
+    {
+      "group_name": "collapse",
+      "group_description": {
+        "zh": "崩潰"
+      },
+      "voice_list": [
+        {
+          "name": "9c36e942b3be5376a310ae5e3a16fcd7",
+          "path": "collapse/doshiyo.mp3",
+          "description": {
+            "zh": "doshiyo"
+          },
+          "updated_at": 1735757743
+        },
+        {
+          "name": "5648dfc9b80bf3c42f165a452b85d979",
+          "path": "collapse/sadge.mp3",
+          "description": {
+            "zh": "sadge"
+          },
+          "updated_at": 1735757756
+        },
+        {
+          "name": "b8ccc4424e78baa6181f3f4a7fda50b3",
+          "path": "collapse/你們都騙我的小珍珠.mp3",
+          "description": {
+            "zh": "你們都騙我的小珍珠"
+          },
+          "updated_at": 1734463163
+        },
+        {
+          "name": "19a5cbca1f156fec5e704122209a80ba",
+          "path": "collapse/嗚嗚嗚我被敷衍了.mp3",
+          "description": {
+            "zh": "嗚嗚嗚我被敷衍了"
+          },
+          "updated_at": 1735524214
+        },
+        {
+          "name": "f7f8febe43c05cefab04d280a5b92874",
+          "path": "collapse/媽媽~~.mp3",
+          "description": {
+            "zh": "媽媽~~"
+          },
+          "updated_at": 1735523049
+        },
+        {
+          "name": "b9a537d6177739c345b38d6fd21e07c6",
+          "path": "collapse/是強哥~~~~~.mp3",
+          "description": {
+            "zh": "是強哥~~~~~"
+          },
+          "updated_at": 1735509023
+        },
+        {
+          "name": "a69c2fadcc27bbc9b0a67806d4ae31c3",
+          "path": "collapse/清醒一點.mp3",
+          "description": {
+            "zh": "清醒一點"
+          },
+          "updated_at": 1735508518
+        },
+        {
+          "name": "19009566f0fa05ed701b677b900bd742",
+          "path": "collapse/跳舞派對.mp3",
+          "description": {
+            "zh": "跳舞派對"
+          },
+          "updated_at": 1735522437
+        },
+        {
+          "name": "5e13535a39986ab71890683ef7ba985f",
+          "path": "collapse/這是什麼破爛劇情.mp3",
+          "description": {
+            "zh": "這是什麼破爛劇情"
+          },
+          "updated_at": 1735757681
+        }
+      ]
+    },
+    {
+      "group_name": "curse",
+      "group_description": {
+        "zh": "罵倒類"
+      },
+      "voice_list": [
+        {
+          "name": "139045b6dfb7770b3728c9f1f6ea3eeb",
+          "path": "curse/你們真是沒用.mp3",
+          "description": {
+            "zh": "你們真是沒用"
+          },
+          "updated_at": 1735463234
+        },
+        {
+          "name": "44a5a32fe6dbfd916a25ecc0257f9601",
+          "path": "curse/你這個爛砲兵.mp3",
+          "description": {
+            "zh": "你這個爛砲兵"
+          },
+          "updated_at": 1733964350
+        },
+        {
+          "name": "30ca236ce770f56939d5d841cd4b0b14",
+          "path": "curse/哦~你好糟糕喔.mp3",
+          "description": {
+            "zh": "哦~你好糟糕喔"
+          },
+          "updated_at": 1733968892
+        },
+        {
+          "name": "14b455ab96bf8b543433c18cb1fc56fb",
+          "path": "curse/我是你媽去吃便當.mp3",
+          "description": {
+            "zh": "我是你媽去吃便當"
+          },
+          "updated_at": 1733968362
+        }
+      ]
+    },
+    {
+      "group_name": "headphone_recommand",
+      "group_description": {
+        "zh": "耳機推薦 (立體聲，部分可能社死)"
+      },
+      "voice_list": [
+        {
+          "name": "014a73feb05919b17bbeefc4829586df",
+          "path": "headphone_recommand/5ma.mp3",
+          "description": {
+            "zh": "5ma"
+          },
+          "updated_at": 1735462809
+        },
+        {
+          "name": "3037cd975998dd1106cf8cd7741a622e",
+          "path": "headphone_recommand/TSKR.mp3",
+          "description": {
+            "zh": "TSKR"
+          },
+          "updated_at": 1735523018
+        },
+        {
+          "name": "5338b2d2b7e9de2cefe68c20d53878ea",
+          "path": "headphone_recommand/今天有想我嗎有想我嗎我超想你們的.mp3",
+          "description": {
+            "zh": "今天有想我嗎有想我嗎我超想你們的"
+          },
+          "updated_at": 1735522884
+        },
+        {
+          "name": "f4e7930e1be8b027a7e2dcd305fa6f31",
+          "path": "headphone_recommand/好啦最喜歡妳了.mp3",
+          "description": {
+            "zh": "好啦最喜歡妳了"
+          },
+          "updated_at": 1735462891
+        },
+        {
+          "name": "b67172cd32fe6235a6af8819a67f48dc",
+          "path": "headphone_recommand/妹控.mp3",
+          "description": {
+            "zh": "妹控"
+          },
+          "updated_at": 1735463141
+        },
+        {
+          "name": "d290f6c031b5236406e22bca2ddc04f9",
+          "path": "headphone_recommand/我們結束了(哈欠).mp3",
+          "description": {
+            "zh": "我們結束了(哈欠)"
+          },
+          "updated_at": 1735522496
+        },
+        {
+          "name": "f2eced3500371a4dd4574a24ef33c643",
+          "path": "headphone_recommand/新婚三問.mp3",
+          "description": {
+            "zh": "新婚三問"
+          },
+          "updated_at": 1735463463
+        },
+        {
+          "name": "c4071f50f404752a69528ae51868ad29",
+          "path": "headphone_recommand/穿辣一點喔.mp3",
+          "description": {
+            "zh": "穿辣一點喔"
+          },
+          "updated_at": 1735461721
+        },
+        {
+          "name": "77e31ac983887f307bebe8cc102e9fda",
+          "path": "headphone_recommand/老公起床嘍.mp3",
+          "description": {
+            "zh": "老公起床嘍"
+          },
+          "updated_at": 1735462741
+        },
+        {
+          "name": "371ad8f72575aad0eba5c1f404cda991",
+          "path": "headphone_recommand/要哄睡狗狗哈士奇睡覺嘍.mp3",
+          "description": {
+            "zh": "要哄睡狗狗哈士奇睡覺嘍"
+          },
+          "updated_at": 1735522858
+        },
+        {
+          "name": "98b3891ebb913224937e3a3cd03dd36e",
+          "path": "headphone_recommand/起床了.mp3",
+          "description": {
+            "zh": "起床了"
+          },
+          "updated_at": 1735522667
+        },
+        {
+          "name": "c43df343d6fab987c0162de8ae069d09",
+          "path": "headphone_recommand/魯尼喜歡我.mp3",
+          "description": {
+            "zh": "魯尼喜歡我"
+          },
+          "updated_at": 1733964347
+        }
+      ]
+    },
+    {
+      "group_name": "healing_lyrics",
+      "group_description": {
+        "zh": "給你滿滿的能量"
+      },
+      "voice_list": [
+        {
+          "name": "20c6ac2e975970af91dc475aa30eff29",
+          "path": "healing_lyrics/你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對.mp3",
+          "description": {
+            "zh": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對"
+          },
+          "updated_at": 1734463135
+        },
+        {
+          "name": "7111ec479713e4fcaf94b73c873ce71c",
+          "path": "healing_lyrics/大家都是我的寶物你們都是我最重要的寶物.mp3",
+          "description": {
+            "zh": "大家都是我的寶物你們都是我最重要的寶物"
+          },
+          "updated_at": 1734462872
+        },
+        {
+          "name": "5f808334ae8597486a67123c3a4e6042",
+          "path": "healing_lyrics/心靈治癒ProMaxPlus+.mp3",
+          "description": {
+            "zh": "心靈治癒ProMaxPlus+"
+          },
+          "updated_at": 1735462041
+        },
+        {
+          "name": "eae81fa686e3923c6196e2162417f589",
+          "path": "healing_lyrics/我我昨天晚上親手做了愛妻便當你願意吃嗎.mp3",
+          "description": {
+            "zh": "我我昨天晚上親手做了愛妻便當你願意吃嗎"
+          },
+          "updated_at": 1735522998
+        },
+        {
+          "name": "bf79fa5c22f0b5791a8a8043fa69fb63",
+          "path": "healing_lyrics/要當大家的溫暖月光.mp3",
+          "description": {
+            "zh": "要當大家的溫暖月光"
+          },
+          "updated_at": 1735508737
+        }
+      ]
+    },
+    {
+      "group_name": "mygo",
+      "group_description": {
+        "zh": "MyGo"
+      },
+      "voice_list": [
+        {
+          "name": "13737a04095f090b93fa90e74c36b6c8",
+          "path": "mygo/你們這些哈士奇老是只想到自己呢.mp3",
+          "description": {
+            "zh": "你們這些哈士奇老是只想到自己呢"
+          },
+          "updated_at": 1735461150
+        }
+      ]
+    },
+    {
+      "group_name": "noise",
+      "group_description": {
+        "zh": "意義不明的音效"
+      },
+      "voice_list": [
+        {
+          "name": "b7662c0c788a74b7979d37a36bedcfe7",
+          "path": "noise/Padoru.mp3",
+          "description": {
+            "zh": "Padoru"
+          },
+          "updated_at": 1735463547
+        },
+        {
+          "name": "9d17f984081c8d789ea76e41e657c7b9",
+          "path": "noise/weeeeee.mp3",
+          "description": {
+            "zh": "weeeeee"
+          },
+          "updated_at": 1735509704
+        },
+        {
+          "name": "924f24114976f8df6fd36c8fe86e6b9a",
+          "path": "noise/YAHAHAA.mp3",
+          "description": {
+            "zh": "YAHAHAA"
+          },
+          "updated_at": 1733969000
+        },
+        {
+          "name": "d2ba5f28014c159b4ae1f3b7e2b9d848",
+          "path": "noise/YesYesYes.mp3",
+          "description": {
+            "zh": "YesYesYes"
+          },
+          "updated_at": 1735758174
+        },
+        {
+          "name": "83f0f7f75895942a1094e009a1689c9e",
+          "path": "noise/你好(泰語).mp3",
+          "description": {
+            "zh": "你好(泰語)"
+          },
+          "updated_at": 1735758186
+        },
+        {
+          "name": "c1bc80c8c02ead4543b99d137a74a1c2",
+          "path": "noise/你好(粵語).mp3",
+          "description": {
+            "zh": "你好(粵語)"
+          },
+          "updated_at": 1735757565
+        },
+        {
+          "name": "8a7361a3edc1e347ea5f0ccb31a11c62",
+          "path": "noise/叭餔.mp3",
+          "description": {
+            "zh": "叭餔"
+          },
+          "updated_at": 1735509689
+        },
+        {
+          "name": "dc74459a842e95edf6d0f4bf19134947",
+          "path": "noise/可愛.mp3",
+          "description": {
+            "zh": "可愛"
+          },
+          "updated_at": 1735509563
+        },
+        {
+          "name": "2cdc7e2733094fc605abaef5798e3f28",
+          "path": "noise/咕嚕咕嚕.mp3",
+          "description": {
+            "zh": "咕嚕咕嚕"
+          },
+          "updated_at": 1735522980
+        },
+        {
+          "name": "0d016e096a6002b39b2066e88f116abb",
+          "path": "noise/哼.mp3",
+          "description": {
+            "zh": "哼"
+          },
+          "updated_at": 1735509251
+        },
+        {
+          "name": "cb4300fdff238875ed283674050f4f5a",
+          "path": "noise/嗚呼.mp3",
+          "description": {
+            "zh": "嗚呼"
+          },
+          "updated_at": 1735508662
+        },
+        {
+          "name": "24756c371ecd69724589fad0c7ee4a2a",
+          "path": "noise/嗷嗷.mp3",
+          "description": {
+            "zh": "嗷嗷"
+          },
+          "updated_at": 1735508565
+        },
+        {
+          "name": "668f5f6e785bb7dc5838f919729d3559",
+          "path": "noise/嗷嗷2.mp3",
+          "description": {
+            "zh": "嗷嗷2"
+          },
+          "updated_at": 1735508616
+        },
+        {
+          "name": "9ae5d9e9e84e12dde18ab04fd28ba942",
+          "path": "noise/嗷嗷3.mp3",
+          "description": {
+            "zh": "嗷嗷3"
+          },
+          "updated_at": 1735508984
+        },
+        {
+          "name": "e235427663fa41379600c559fe01c7a9",
+          "path": "noise/惡魔Ka.mp3",
+          "description": {
+            "zh": "惡魔Ka"
+          },
+          "updated_at": 1735757696
+        },
+        {
+          "name": "a67fd89501b3352d2173a02702258faf",
+          "path": "noise/惡龍咆哮.mp3",
+          "description": {
+            "zh": "惡龍咆哮"
+          },
+          "updated_at": 1735462552
+        },
+        {
+          "name": "e0c379ad0fbe7b0a9281af896ebcdabe",
+          "path": "noise/祈床重睡.mp3",
+          "description": {
+            "zh": "祈床重睡"
+          },
+          "updated_at": 1733964349
+        },
+        {
+          "name": "22bb6a145b8b2db14a8aaab79eb71cc4",
+          "path": "noise/鈴鈴鈴鈴鈴鈴.mp3",
+          "description": {
+            "zh": "鈴鈴鈴鈴鈴鈴"
+          },
+          "updated_at": 1735522943
+        },
+        {
+          "name": "01f9c12f3d76c53a4c12470d46b42627",
+          "path": "noise/阿巴阿巴阿巴.mp3",
+          "description": {
+            "zh": "阿巴阿巴阿巴"
+          },
+          "updated_at": 1735509057
+        },
+        {
+          "name": "853fd15df976d87ed0c49be62eb3cfb6",
+          "path": "noise/魯尼Ka.mp3",
+          "description": {
+            "zh": "魯尼Ka"
+          },
+          "updated_at": 1735757708
+        }
+      ]
+    },
+    {
+      "group_name": "normal",
+      "group_description": {
+        "zh": "一般台詞"
+      },
+      "voice_list": [
+        {
+          "name": "6fdf7d265ce6f7aac649824b25dab2c8",
+          "path": "normal/I_will_punish_DD_no_DD.mp3",
+          "description": {
+            "zh": "I_will_punish_DD_no_DD"
+          },
+          "updated_at": 1735163424
+        },
+        {
+          "name": "ca39f95284d0ebc01328c008eea89810",
+          "path": "normal/WDYM.mp3",
+          "description": {
+            "zh": "WDYM"
+          },
+          "updated_at": 1735523099
+        },
+        {
+          "name": "357a3910e0fab9371a89cd387da1674a",
+          "path": "normal/Yeah_you_die_I_die_go_die_die.mp3",
+          "description": {
+            "zh": "Yeah_you_die_I_die_go_die_die"
+          },
+          "updated_at": 1735523063
+        },
+        {
+          "name": "c72543ea1f0f0b4e1387051b62e3a3c9",
+          "path": "normal/わくわく.mp3",
+          "description": {
+            "zh": "わくわく"
+          },
+          "updated_at": 1735509043
+        },
+        {
+          "name": "5476c43cf78e58072270d4b489fb5aff",
+          "path": "normal/不要只會出一張嘴.mp3",
+          "description": {
+            "zh": "不要只會出一張嘴"
+          },
+          "updated_at": 1735522461
+        },
+        {
+          "name": "6af611fd2592a75311500f5898c601eb",
+          "path": "normal/你484喜歡我.mp3",
+          "description": {
+            "zh": "你484喜歡我"
+          },
+          "updated_at": 1735522689
+        },
+        {
+          "name": "a69c2fadcc27bbc9b0a67806d4ae31c3",
+          "path": "normal/你們清醒一點我拜託你們清醒一點好不好.mp3",
+          "description": {
+            "zh": "你們清醒一點我拜託你們清醒一點好不好"
+          },
+          "updated_at": 1735508120
+        },
+        {
+          "name": "f566b38ae33b5d0dc04e552c95cab691",
+          "path": "normal/你們除了會讓我中風還會幹什麼.mp3",
+          "description": {
+            "zh": "你們除了會讓我中風還會幹什麼"
+          },
+          "updated_at": 1735509631
+        },
+        {
+          "name": "41180721e2c8d38bd1186053e888f22e",
+          "path": "normal/你敷衍我.mp3",
+          "description": {
+            "zh": "你敷衍我"
+          },
+          "updated_at": 1735524243
+        },
+        {
+          "name": "d042e9178c7ef99fb28677677b60fb83",
+          "path": "normal/嗚呼~我是最棒的!!.mp3",
+          "description": {
+            "zh": "嗚呼~我是最棒的!!"
+          },
+          "updated_at": 1735509237
+        },
+        {
+          "name": "e7081dad11712963ce7ed367899044a3",
+          "path": "normal/嘿我就偏不.mp3",
+          "description": {
+            "zh": "嘿我就偏不"
+          },
+          "updated_at": 1733968413
+        },
+        {
+          "name": "aa877d8129dca3c184e9d61948bc2a5b",
+          "path": "normal/嘿沒禮貌.mp3",
+          "description": {
+            "zh": "嘿沒禮貌"
+          },
+          "updated_at": 1735525600
+        },
+        {
+          "name": "51f2a6929eafa74efb582184694a8f38",
+          "path": "normal/好色喔.mp3",
+          "description": {
+            "zh": "好色喔"
+          },
+          "updated_at": 1735509360
+        },
+        {
+          "name": "aedb332effaa425b0a3be3497a140b35",
+          "path": "normal/愛妻便當.mp3",
+          "description": {
+            "zh": "愛妻便當"
+          },
+          "updated_at": 1735508637
+        },
+        {
+          "name": "3f4ac3221ba9d582632e6b7fc8732d43",
+          "path": "normal/我是天上的使者這隻惡魔就交由我來統治了.mp3",
+          "description": {
+            "zh": "我是天上的使者這隻惡魔就交由我來統治了"
+          },
+          "updated_at": 1735509606
+        },
+        {
+          "name": "2909ce833cbf814815428343d1ea3237",
+          "path": "normal/我是有禮貌的女人了.mp3",
+          "description": {
+            "zh": "我是有禮貌的女人了"
+          },
+          "updated_at": 1735522650
+        },
+        {
+          "name": "dbb1040ce8d823e75c11ca0ff0a3f674",
+          "path": "normal/我要炸掉子午計劃的廚房嘻嘻.mp3",
+          "description": {
+            "zh": "我要炸掉子午計劃的廚房嘻嘻"
+          },
+          "updated_at": 1735522965
+        },
+        {
+          "name": "5bf4aa3bd80bf531fbab51b38540290e",
+          "path": "normal/沒有要加班啦沒有.mp3",
+          "description": {
+            "zh": "沒有要加班啦沒有"
+          },
+          "updated_at": 1735509087
+        },
+        {
+          "name": "81ced9b9592720c3b73ece64fd2bdf4b",
+          "path": "normal/祈奶奶.mp3",
+          "description": {
+            "zh": "祈奶奶"
+          },
+          "updated_at": 1735510602
+        },
+        {
+          "name": "79dc534f067769de67e3f23fb4127960",
+          "path": "normal/羞羞臉他不穿衣服餒阿北.mp3",
+          "description": {
+            "zh": "羞羞臉他不穿衣服餒阿北"
+          },
+          "updated_at": 1733968564
+        },
+        {
+          "name": "7d990779c6f58d175352a630bc85fd64",
+          "path": "normal/要蛋雕這遊戲.mp3",
+          "description": {
+            "zh": "要蛋雕這遊戲"
+          },
+          "updated_at": 1735508946
+        },
+        {
+          "name": "bff7709615890f4aee90ef479feac2ce",
+          "path": "normal/要要當一輩子哈士奇一輩子.mp3",
+          "description": {
+            "zh": "要要當一輩子哈士奇一輩子"
+          },
+          "updated_at": 1735508932
+        },
+        {
+          "name": "742b3d16319cf4a3f6cea757b1a6a29d",
+          "path": "normal/讓你模仿沒有讓你抄玥.mp3",
+          "description": {
+            "zh": "讓你模仿沒有讓你抄玥"
+          },
+          "updated_at": 1735522824
+        },
+        {
+          "name": "67b66eaf372069a150da8fb1c6e0c0af",
+          "path": "normal/起床重睡.mp3",
+          "description": {
+            "zh": "起床重睡"
+          },
+          "updated_at": 1733968825
+        }
+      ]
+    },
+    {
+      "group_name": "song",
+      "group_description": {
+        "zh": "歌曲"
+      },
+      "voice_list": [
+        {
+          "name": "51f6aafd19b871ccc3b3c955c0cf6513",
+          "path": "song/5MA之歌.mp3",
+          "description": {
+            "zh": "5MA之歌"
+          },
+          "updated_at": 1733964348
+        },
+        {
+          "name": "2339052cf7f96624eb3b5c1ecd58c3a7",
+          "path": "song/Iruni老公天下第一.mp3",
+          "description": {
+            "zh": "Iruni老公天下第一"
+          },
+          "updated_at": 1733964350
+        },
+        {
+          "name": "d18247e0160bba61bf3203aa7a95a5ec",
+          "path": "song/呀咧呀咧.mp3",
+          "description": {
+            "zh": "呀咧呀咧"
+          },
+          "updated_at": 1735511647
+        },
+        {
+          "name": "5a43de72c9a895c5fadc5aab4d93cc32",
+          "path": "song/寶寶睡.mp3",
+          "description": {
+            "zh": "寶寶睡"
+          },
+          "updated_at": 1733964347
+        },
+        {
+          "name": "2a12ea5e7e907304af25cfad9017c497",
+          "path": "song/老公天下第一.mp3",
+          "description": {
+            "zh": "老公天下第一"
+          },
+          "updated_at": 1735509287
+        }
+      ]
+    },
+    {
+      "group_name": "taiwanese",
+      "group_description": {
+        "zh": "台語"
+      },
+      "voice_list": [
+        {
+          "name": "22111325f4bca26ae398f6948fe1d83e",
+          "path": "taiwanese/8點檔.mp3",
+          "description": {
+            "zh": "8點檔"
+          },
+          "updated_at": 1735757724
+        },
+        {
+          "name": "e9f405389368f3ce793a89d00b3b7919",
+          "path": "taiwanese/你愛我嗎(台語).mp3",
+          "description": {
+            "zh": "你愛我嗎(台語)"
+          },
+          "updated_at": 1735757621
+        },
+        {
+          "name": "df81ab8b038e9e31cd37f22590420a26",
+          "path": "taiwanese/假偷刀挖災亞蝦密喜偷刀假偷刀.mp3",
+          "description": {
+            "zh": "假偷刀挖災亞蝦密喜偷刀假偷刀"
+          },
+          "updated_at": 1734463218
+        },
+        {
+          "name": "0dcea67b37f028ac89194502eaf09eb5",
+          "path": "taiwanese/我像妳去死啦.mp3",
+          "description": {
+            "zh": "我像妳去死啦"
+          },
+          "updated_at": 1735601481
+        },
+        {
+          "name": "9ac154c4d2e81b6541cc16ed3a7a0cd6",
+          "path": "taiwanese/我原本很愛你(台語).mp3",
+          "description": {
+            "zh": "我原本很愛你(台語)"
+          },
+          "updated_at": 1735757631
+        },
+        {
+          "name": "dd94c3bfdce1963e86f10aefdfb25781",
+          "path": "taiwanese/我欲對別人走.mp3",
+          "description": {
+            "zh": "我欲對別人走"
+          },
+          "updated_at": 1735757650
+        },
+        {
+          "name": "affb9c7f7e864956e3e35e4ad985eaa6",
+          "path": "taiwanese/挖喜祈iruni.mp3",
+          "description": {
+            "zh": "挖喜祈iruni"
+          },
+          "updated_at": 1734462910
+        },
+        {
+          "name": "2cc1023104a60ffaf8c33a16e2b722c9",
+          "path": "taiwanese/挖誒台益逼哩喀厚哩災亞某.mp3",
+          "description": {
+            "zh": "挖誒台益逼哩喀厚哩災亞某"
+          },
+          "updated_at": 1734462953
+        },
+        {
+          "name": "337ce0f1f6ed210bc5bd3077bc0abbaf",
+          "path": "taiwanese/蛋雕蛋雕吝誒好啦沒有拉開玩笑的.mp3",
+          "description": {
+            "zh": "蛋雕蛋雕吝誒好啦沒有拉開玩笑的"
+          },
+          "updated_at": 1734463023
+        },
+        {
+          "name": "d2220154278bc3153a7c2b1514efeeed",
+          "path": "taiwanese/說話該小聲的是誰.mp3",
+          "description": {
+            "zh": "說話該小聲的是誰"
+          },
+          "updated_at": 1735601566
+        }
+      ]
+    },
+    {
+      "group_name": "yandere",
+      "group_description": {
+        "zh": "病嬌"
+      },
+      "voice_list": [
+        {
+          "name": "626a43e78744aa635b3eec6804b760d4",
+          "path": "yandere/如果你們發了任何dd的東西我都看的到喔.mp3",
+          "description": {
+            "zh": "如果你們發了任何dd的東西我都看的到喔"
+          },
+          "updated_at": 1735522920
+        },
+        {
+          "name": "26ac5d687a74dbcbda2597edbc7d0ccd",
+          "path": "yandere/新婚三問_病嬌版.mp3",
+          "description": {
+            "zh": "新婚三問_病嬌版"
+          },
+          "updated_at": 1735463510
+        },
+        {
+          "name": "c507fdebf24bac4f69986b8133cefbfb",
+          "path": "yandere/要一直在一起.mp3",
+          "description": {
+            "zh": "要一直在一起"
+          },
+          "updated_at": 1735522741
+        }
+      ]
+    }
+  ]
+}
