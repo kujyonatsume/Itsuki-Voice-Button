@@ -12,7 +12,7 @@
               <span v-if="i !== site.footer.authors.length - 1">、</span>
             </span>
           </li>
-          <li>音檔素材來源: Discord 音效板、月司</li>
+          <li>音檔素材來源: Discord 音效板、珞鳶</li>
           <li>圖檔素材來源: <a class="link" href="https://lit.link/en/yuuminekone" target="_blank">憂瀰*yuumi</a></li>
         </ul>
       </VCardText>
