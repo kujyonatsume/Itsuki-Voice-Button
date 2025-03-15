@@ -33,7 +33,7 @@ export const links: T_Link[][] = [
         "name": "mdi-twitch",
       },
       "title": "Twitch",
-      "url": "https://www.twitch.tv/iruni_ianvs"
+      "url": "https://www.twitch.tv/itsuki_ianvs"
     },
     {
       "icon": {
@@ -41,7 +41,7 @@ export const links: T_Link[][] = [
         "name": "mdi-youtube",
       },
       "title": "Youtube",
-      "url": "https://www.youtube.com/@IruniIanvs"
+      "url": "https://www.youtube.com/@itsukiIanvs"
     },
     {
       "icon": {
@@ -49,7 +49,7 @@ export const links: T_Link[][] = [
         "name": "mdi-twitter",
       },
       "title": "Twitter",
-      "url": "https://x.com/iruni_ianvs"
+      "url": "https://x.com/itsuki_ianvs"
     },
     {
       "icon": {
@@ -95,6 +95,20 @@ export const links: T_Link[][] = [
       },
       "title": "小響按鈕",
       "url": "https://hibiki-button.konnokai.me/"
+    },
+    {
+      "icon": {
+        "emoji": "😈" //⛓️
+      },
+      "title": "王月按鈕",
+      "url": "https://itsuki-button.natsumoe.com/"
+    },
+    {
+      "icon": {
+        "emoji": "😈" //⛓️
+      },
+      "title": "王月按鈕",
+      "url": "https://itsuki-button.natsumoe.com/"
     }
   ]
 ]

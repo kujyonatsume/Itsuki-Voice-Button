@@ -16,7 +16,7 @@
         <VListItem to="/">
           <template #prepend>
             <div class="mr-8">
-              <img src="/img/embed.png" width="24" height="24"/>
+              <VIcon>mdi-home</VIcon>
             </div>
           </template>
           <VListItemTitle>首頁</VListItemTitle>
