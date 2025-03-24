@@ -3,7 +3,7 @@
     {
       "group_name": "animal",
       "group_description": {
-        "zh": "模仿動物"
+        "zh": "animal"
       },
       "voice_list": [
         {
@@ -12,7 +12,7 @@
           "description": {
             "zh": "Itsuki鴿子叫"
           },
-          "updated_at": 1738077744
+          "updated_at": 1742844655
         },
         {
           "name": "0ad50920a54228ef6b315c4a00c965ee",
@@ -20,14 +20,14 @@
           "description": {
             "zh": "貓頭鷹玥"
           },
-          "updated_at": 1738470554
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "collapse",
       "group_description": {
-        "zh": "崩潰"
+        "zh": "collapse"
       },
       "voice_list": [
         {
@@ -36,7 +36,7 @@
           "description": {
             "zh": "No_wayyyyyyy"
           },
-          "updated_at": 1738076302
+          "updated_at": 1742844655
         },
         {
           "name": "4dcb4d3214854573dc8d0bfa2ffac27b",
@@ -44,7 +44,7 @@
           "description": {
             "zh": "不行不要阿阿阿阿韓文"
           },
-          "updated_at": 1738467911
+          "updated_at": 1742844655
         },
         {
           "name": "a5d6d3a8af82715311afb865cab05c08",
@@ -52,7 +52,7 @@
           "description": {
             "zh": "你很不對勁"
           },
-          "updated_at": 1738076082
+          "updated_at": 1742844655
         },
         {
           "name": "b671b04a7b1b024492da6ecb8dea7382",
@@ -60,7 +60,7 @@
           "description": {
             "zh": "哭哭"
           },
-          "updated_at": 1738470138
+          "updated_at": 1742844655
         },
         {
           "name": "4528fd5047443948e83213334b13562b",
@@ -68,7 +68,7 @@
           "description": {
             "zh": "哼_吼優_又消費"
           },
-          "updated_at": 1738469515
+          "updated_at": 1742844655
         },
         {
           "name": "4352cab57d6e03395b9ded9535f4be7c",
@@ -76,7 +76,7 @@
           "description": {
             "zh": "媽媽FxxK"
           },
-          "updated_at": 1738467576
+          "updated_at": 1742844655
         },
         {
           "name": "092c17bc9dd175ace9de6c8dc6e292c6",
@@ -84,14 +84,14 @@
           "description": {
             "zh": "玥鬼叫然後水就燒開了"
           },
-          "updated_at": 1738468037
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "curse",
       "group_description": {
-        "zh": "罵倒"
+        "zh": "curse"
       },
       "voice_list": [
         {
@@ -100,7 +100,7 @@
           "description": {
             "zh": "eww_brother_eww"
           },
-          "updated_at": 1737589413
+          "updated_at": 1742844655
         },
         {
           "name": "f6555db151af1395290967b8bd25d89d",
@@ -108,7 +108,7 @@
           "description": {
             "zh": "MD開門啦"
           },
-          "updated_at": 1742012976
+          "updated_at": 1742844655
         },
         {
           "name": "75e6012296c60d991f39260ee5a5a197",
@@ -116,7 +116,7 @@
           "description": {
             "zh": "哩喜勒靠喔"
           },
-          "updated_at": 1736545959
+          "updated_at": 1742844655
         },
         {
           "name": "57e3705de614c985ed1834ebbae0c1ba",
@@ -124,7 +124,7 @@
           "description": {
             "zh": "我信你是秦始皇啦"
           },
-          "updated_at": 1738468865
+          "updated_at": 1742844655
         },
         {
           "name": "3ed7d9795266ff7b70ff4836c46b494a",
@@ -132,7 +132,7 @@
           "description": {
             "zh": "我聽你在"
           },
-          "updated_at": 1738469693
+          "updated_at": 1742844655
         },
         {
           "name": "5ac5088f8f42b8061a221ea5d744baa1",
@@ -140,7 +140,7 @@
           "description": {
             "zh": "玥式C8"
           },
-          "updated_at": 1737588595
+          "updated_at": 1742844655
         },
         {
           "name": "1846d0b0d0a81834259833af52ffc38f",
@@ -148,14 +148,22 @@
           "description": {
             "zh": "破音C8"
           },
-          "updated_at": 1736567312
+          "updated_at": 1742844655
+        },
+        {
+          "name": "99f0b97c4c5a2e4a40bf6a5b38ea692f",
+          "path": "curse/靠O.mp3",
+          "description": {
+            "zh": "靠O"
+          },
+          "updated_at": 1742161008
         }
       ]
     },
     {
       "group_name": "cute",
       "group_description": {
-        "zh": "可愛"
+        "zh": "cute"
       },
       "voice_list": [
         {
@@ -164,14 +172,14 @@
           "description": {
             "zh": "哎呀呀呀呀"
           },
-          "updated_at": 1738075297
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "gachi_time",
       "group_description": {
-        "zh": "長角時間"
+        "zh": "gachi_time"
       },
       "voice_list": [
         {
@@ -180,14 +188,14 @@
           "description": {
             "zh": "玥玥_老公有客人"
           },
-          "updated_at": 1742012775
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "goodnight",
       "group_description": {
-        "zh": "晚安特輯"
+        "zh": "goodnight"
       },
       "voice_list": [
         {
@@ -196,14 +204,14 @@
           "description": {
             "zh": "晚安各位"
           },
-          "updated_at": 1737429599
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "itsuki_say",
       "group_description": {
-        "zh": "玥玥名言"
+        "zh": "itsuki_say"
       },
       "voice_list": [
         {
@@ -212,30 +220,46 @@
           "description": {
             "zh": "反正死都死了"
           },
-          "updated_at": 1737658390
+          "updated_at": 1742844655
+        },
+        {
+          "name": "9d373b7382325cb70ea6ecb491cd9973",
+          "path": "itsuki_say/我不幹了.mp3",
+          "description": {
+            "zh": "我不幹了"
+          },
+          "updated_at": 1742080487
         }
       ]
     },
     {
       "group_name": "laughter",
       "group_description": {
-        "zh": "笑聲"
+        "zh": "laughter"
       },
       "voice_list": [
+        {
+          "name": "1387bdb7014f31f6f3da08d0821b4acf",
+          "path": "laughter/哇哇哇哇哇.mp3",
+          "description": {
+            "zh": "哇哇哇哇哇"
+          },
+          "updated_at": 1742079630
+        },
         {
           "name": "4aa3f2744e96c25e58a1d84643c6930f",
           "path": "laughter/邪惡的可愛笑聲.mp3",
           "description": {
             "zh": "邪惡的可愛笑聲"
           },
-          "updated_at": 1738471153
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "normal",
       "group_description": {
-        "zh": "台詞回"
+        "zh": "normal"
       },
       "voice_list": [
         {
@@ -244,7 +268,7 @@
           "description": {
             "zh": "不良少女版變好吃魔法"
           },
-          "updated_at": 1737588812
+          "updated_at": 1742844655
         },
         {
           "name": "6b78ad36c04e994e3c5a931509ca7ec4",
@@ -252,7 +276,7 @@
           "description": {
             "zh": "八點檔"
           },
-          "updated_at": 1736545967
+          "updated_at": 1742844655
         },
         {
           "name": "5570e78170bf91c767e317499e0cf27b",
@@ -260,7 +284,7 @@
           "description": {
             "zh": "萌え萌えキュン"
           },
-          "updated_at": 1736675198
+          "updated_at": 1742844655
         },
         {
           "name": "ea9f086922020811ff24ed00cd6471f0",
@@ -268,7 +292,7 @@
           "description": {
             "zh": "蘿莉"
           },
-          "updated_at": 1736642544
+          "updated_at": 1742844655
         },
         {
           "name": "907a4e12a5505452380f75ea5f5548a4",
@@ -276,14 +300,14 @@
           "description": {
             "zh": "變好吃魔法"
           },
-          "updated_at": 1737588937
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "other",
       "group_description": {
-        "zh": "其他"
+        "zh": "other"
       },
       "voice_list": [
         {
@@ -292,7 +316,7 @@
           "description": {
             "zh": "ItsTimeToBed"
           },
-          "updated_at": 1737428943
+          "updated_at": 1742844655
         },
         {
           "name": "3dae4b7e2a68cc7431d38da76fbfb756",
@@ -300,7 +324,7 @@
           "description": {
             "zh": "乾安捏"
           },
-          "updated_at": 1736545963
+          "updated_at": 1742844655
         },
         {
           "name": "52f139a689c3df514d222bbbebc391f8",
@@ -308,7 +332,7 @@
           "description": {
             "zh": "媽咪"
           },
-          "updated_at": 1738075869
+          "updated_at": 1742844655
         },
         {
           "name": "cd849e52d0dc65cf34b78dfa113b9d7d",
@@ -316,14 +340,14 @@
           "description": {
             "zh": "過來嘛"
           },
-          "updated_at": 1738075622
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "pleasure",
       "group_description": {
-        "zh": "愉悅"
+        "zh": "pleasure"
       },
       "voice_list": [
         {
@@ -332,7 +356,7 @@
           "description": {
             "zh": "一代_有點瑟"
           },
-          "updated_at": 1738075510
+          "updated_at": 1742844655
         },
         {
           "name": "b21500cce49f1b21e1c526e4741853eb",
@@ -340,7 +364,7 @@
           "description": {
             "zh": "出來寶貝讓我BAN你"
           },
-          "updated_at": 1738467758
+          "updated_at": 1742844655
         },
         {
           "name": "472ed6f9a9ef0d8d91886bb7a4479bb2",
@@ -348,7 +372,7 @@
           "description": {
             "zh": "哈茲卡西"
           },
-          "updated_at": 1736545955
+          "updated_at": 1742844655
         },
         {
           "name": "2b5efb24af3441bc9647a3d9ca041fad",
@@ -356,7 +380,7 @@
           "description": {
             "zh": "喔挖屋"
           },
-          "updated_at": 1738076813
+          "updated_at": 1742844655
         },
         {
           "name": "873a58e20cef2c5dd36bfe9519e7ad17",
@@ -364,7 +388,7 @@
           "description": {
             "zh": "捏捏捏"
           },
-          "updated_at": 1738469133
+          "updated_at": 1742844655
         },
         {
           "name": "b39c5aa813b9a44bc0236b7f5aee5248",
@@ -372,7 +396,7 @@
           "description": {
             "zh": "美瑞溝斗"
           },
-          "updated_at": 1738470928
+          "updated_at": 1742844655
         },
         {
           "name": "068fe1aa5fab9f35e6ab0e4b1a015a12",
@@ -380,14 +404,14 @@
           "description": {
             "zh": "阿哈哈哈哈"
           },
-          "updated_at": 1738076864
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "pua",
       "group_description": {
-        "zh": "PUA"
+        "zh": "pua"
       },
       "voice_list": [
         {
@@ -396,14 +420,14 @@
           "description": {
             "zh": "被魯尼情勒的玥玥"
           },
-          "updated_at": 1736641385
+          "updated_at": 1742844655
         }
       ]
     },
     {
       "group_name": "tskr",
       "group_description": {
-        "zh": "TSKR"
+        "zh": "tskr"
       },
       "voice_list": [
         {
@@ -412,7 +436,7 @@
           "description": {
             "zh": "玥_噴嚏_有鼻水聲"
           },
-          "updated_at": 1737589952
+          "updated_at": 1742844655
         },
         {
           "name": "cfde1835a634c09009871fbac6aff698",
@@ -420,7 +444,7 @@
           "description": {
             "zh": "玥_登登稜_打噴嚏"
           },
-          "updated_at": 1737589775
+          "updated_at": 1742844655
         },
         {
           "name": "a2fee303ace6209d80a2b902c7b7cded",
@@ -428,7 +452,7 @@
           "description": {
             "zh": "超清楚噴嚏"
           },
-          "updated_at": 1738468435
+          "updated_at": 1742844655
         },
         {
           "name": "83ac963a8fbfc3418ff8fac3981feb2f",
@@ -436,7 +460,7 @@
           "description": {
             "zh": "超清楚打噴嚏"
           },
-          "updated_at": 1738467471
+          "updated_at": 1742844655
         }
       ]
     }
