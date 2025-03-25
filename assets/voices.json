@@ -3,7 +3,7 @@
     {
       "group_name": "animal",
       "group_description": {
-        "zh": "animal"
+        "zh": "模仿動物"
       },
       "voice_list": [
         {
@@ -27,7 +27,7 @@
     {
       "group_name": "collapse",
       "group_description": {
-        "zh": "collapse"
+        "zh": "崩潰"
       },
       "voice_list": [
         {
@@ -91,7 +91,7 @@
     {
       "group_name": "curse",
       "group_description": {
-        "zh": "curse"
+        "zh": "罵倒"
       },
       "voice_list": [
         {
@@ -163,7 +163,7 @@
     {
       "group_name": "cute",
       "group_description": {
-        "zh": "cute"
+        "zh": "可愛"
       },
       "voice_list": [
         {
@@ -179,7 +179,7 @@
     {
       "group_name": "gachi_time",
       "group_description": {
-        "zh": "gachi_time"
+        "zh": "長角時間"
       },
       "voice_list": [
         {
@@ -195,7 +195,7 @@
     {
       "group_name": "goodnight",
       "group_description": {
-        "zh": "goodnight"
+        "zh": "晚安特輯"
       },
       "voice_list": [
         {
@@ -211,7 +211,7 @@
     {
       "group_name": "itsuki_say",
       "group_description": {
-        "zh": "itsuki_say"
+        "zh": "玥玥名言"
       },
       "voice_list": [
         {
@@ -235,7 +235,7 @@
     {
       "group_name": "laughter",
       "group_description": {
-        "zh": "laughter"
+        "zh": "笑聲"
       },
       "voice_list": [
         {
@@ -259,7 +259,7 @@
     {
       "group_name": "normal",
       "group_description": {
-        "zh": "normal"
+        "zh": "台詞回"
       },
       "voice_list": [
         {
@@ -307,7 +307,7 @@
     {
       "group_name": "other",
       "group_description": {
-        "zh": "other"
+        "zh": "其他"
       },
       "voice_list": [
         {
@@ -347,7 +347,7 @@
     {
       "group_name": "pleasure",
       "group_description": {
-        "zh": "pleasure"
+        "zh": "愉悅"
       },
       "voice_list": [
         {
@@ -411,7 +411,7 @@
     {
       "group_name": "pua",
       "group_description": {
-        "zh": "pua"
+        "zh": "PUA"
       },
       "voice_list": [
         {
@@ -427,7 +427,7 @@
     {
       "group_name": "tskr",
       "group_description": {
-        "zh": "tskr"
+        "zh": "TSKR"
       },
       "voice_list": [
         {
